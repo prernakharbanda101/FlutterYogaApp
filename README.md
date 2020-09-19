@@ -11,4 +11,3 @@ cd MeditationYogaFlutter
 ```
 
 
-* Follow me on [Twitter](https://twitter.com/sudoosama) 
